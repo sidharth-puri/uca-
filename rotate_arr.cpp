@@ -14,7 +14,7 @@ int main()
 	}
 	cout<<"Enter the number of rotations \n";
 	cin>>n;
-	int t=n%5;
+	int t=n%size;
 	int temp,j;
 	for(j=0;j<t;j++)
 	{
