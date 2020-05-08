@@ -7,6 +7,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+
+
 int comparator(const int *p,const int *q)
 {
     return (*p-*q);
