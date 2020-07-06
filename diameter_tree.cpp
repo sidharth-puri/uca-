@@ -19,8 +19,7 @@ int diameter(struct Node * tree);
 int main()
 {
   int t;
-  scanf("%d
-", &t);
+  scanf("%d", &t);
   while (t--)
   {
      map<int, Node*> m;
