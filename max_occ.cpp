@@ -33,6 +33,7 @@ int main()
 			index=i;
 		}
 	}
+	
 	cout<<"MAX OCCURANCE = "<<index;
 	return 0;
 	
