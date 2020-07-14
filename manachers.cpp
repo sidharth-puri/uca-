@@ -110,4 +110,5 @@ int main(){
  
     cout << postProcess(getSubstring(str, centerIndex - maxLen, centerIndex + maxLen)) << endl;
  
-return 0; }
+return 0;
+}
